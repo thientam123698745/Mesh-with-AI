@@ -1,2 +1,1 @@
-# Mesh-with-AI
-Mesh network with edge computing and AI support
+# CE339.N21

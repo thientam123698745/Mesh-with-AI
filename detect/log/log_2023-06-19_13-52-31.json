@@ -1,0 +1,918 @@
+{
+    "id": 87922581,
+    "custom_id": null,
+    "meta_data": {
+        "latitude": null,
+        "longitude": null,
+        "date": "2023-06-19",
+        "datetime": "2023-06-19"
+    },
+    "uploaded_datetime": 1687157543.483059,
+    "finished_datetime": 1687157544.439566,
+    "images": [
+        {
+            "file_name": "9ae3f7d7a8284c2f9e9cf61108cd48da.jpg",
+            "url": "https://plant.id/media/images/9ae3f7d7a8284c2f9e9cf61108cd48da.jpg"
+        },
+        {
+            "file_name": "7dd546588b2b4f29900abbe92d52e1d6.jpg",
+            "url": "https://plant.id/media/images/7dd546588b2b4f29900abbe92d52e1d6.jpg"
+        },
+        {
+            "file_name": "180a9b0962d64ab69653fc4605698f0a.jpg",
+            "url": "https://plant.id/media/images/180a9b0962d64ab69653fc4605698f0a.jpg"
+        },
+        {
+            "file_name": "c1b26340a6154274974218b50052814a.jpg",
+            "url": "https://plant.id/media/images/c1b26340a6154274974218b50052814a.jpg"
+        },
+        {
+            "file_name": "f72570dff3af45fbbbdf34ea600b0819.jpg",
+            "url": "https://plant.id/media/images/f72570dff3af45fbbbdf34ea600b0819.jpg"
+        }
+    ],
+    "modifiers": [
+        "health_only",
+        "disease_similar_images",
+        "crops_fast"
+    ],
+    "secret": "NLkjlerV8ZnPnmk",
+    "fail_cause": null,
+    "countable": true,
+    "feedback": null,
+    "is_plant_probability": 0.99009202492,
+    "is_plant": true,
+    "health_assessment": {
+        "is_healthy_probability": 0.578167081,
+        "is_healthy": true,
+        "diseases": [
+            {
+                "entity_id": 533,
+                "name": "Peronosporaceae",
+                "probability": 0.41993404522807265,
+                "similar_images": [
+                    {
+                        "id": "73e98b2338fccb9668bb7a5693e0cc15",
+                        "similarity": 44.23860928232679,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/73e/98b2338fccb9668bb7a5693e0cc15.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/73e/98b2338fccb9668bb7a5693e0cc15.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "e148dfd9577cb5609604089e6d5b5284",
+                        "similarity": 36.78701633915119,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.small.jpeg",
+                        "citation": "Howard F. Schwartz, Colorado State University, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Peronosporaceae",
+                    "description": "Pathogens from the Peronosporaceae family are fungi-like water molds causing infectious plant diseases called downy mildews. They form typical spores-containing structures on the downside of the leaves.",
+                    "url": "https://en.wikipedia.org/wiki/Peronosporaceae",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "If the infection is widespread, remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray). These chemicals may lead to the development of resistant strains."
+                        ]
+                    },
+                    "classification": [
+                        "Chromista",
+                        "Peronosporea"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 461,
+                "name": "Chromista",
+                "probability": 0.4182420374881851,
+                "redundant": true,
+                "similar_images": [
+                    {
+                        "id": "0513a8006a99da040cb5062aab24308d",
+                        "similarity": 46.86486476241011,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/051/3a8006a99da040cb5062aab24308d.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/051/3a8006a99da040cb5062aab24308d.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "e148dfd9577cb5609604089e6d5b5284",
+                        "similarity": 36.787016339151194,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.small.jpeg",
+                        "citation": "Howard F. Schwartz, Colorado State University, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Chromista",
+                    "description": "Chromista are fungus-like organisms, sometimes called water molds. They are mostly aquatic or soil-borne and cause many plant diseases (such as downy mildew and late blight).",
+                    "url": "https://en.wikipedia.org/wiki/Chromista",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "If the infection is widespread, remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray). These chemicals may lead to the development of resistant strains."
+                        ]
+                    },
+                    "classification": [],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 476,
+                "name": "Peronosporales",
+                "probability": 0.41093983412363727,
+                "redundant": true,
+                "similar_images": [
+                    {
+                        "id": "0513a8006a99da040cb5062aab24308d",
+                        "similarity": 46.86486476241011,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/051/3a8006a99da040cb5062aab24308d.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/051/3a8006a99da040cb5062aab24308d.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "e148dfd9577cb5609604089e6d5b5284",
+                        "similarity": 36.787016339151194,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e14/8dfd9577cb5609604089e6d5b5284.small.jpeg",
+                        "citation": "Howard F. Schwartz, Colorado State University, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Peronosporales",
+                    "description": "Peronosporales are oomycetes, a group related to fungi, also known as water molds. They cause infectious diseases such as downy mildew.",
+                    "url": "https://en.wikipedia.org/wiki/Peronosporales",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "If the infection is widespread, remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray). These chemicals may lead to the development of resistant strains."
+                        ]
+                    },
+                    "classification": [
+                        "Chromista"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 902,
+                "name": "powdery mildew",
+                "probability": 0.36138097294428145,
+                "similar_images": [
+                    {
+                        "id": "c7d5c7dacfad45f1d382981ed1b45017",
+                        "similarity": 26.3376136624508,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c7d/5c7dacfad45f1d382981ed1b45017.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c7d/5c7dacfad45f1d382981ed1b45017.small.jpeg",
+                        "citation": "Clemson University - USDA Cooperative Extension Slide Series , Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "c8bfec5439e2209bea6457ce6e0f0f31",
+                        "similarity": 24.479644616476556,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c8b/fec5439e2209bea6457ce6e0f0f31.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c8b/fec5439e2209bea6457ce6e0f0f31.small.jpeg",
+                        "citation": "David Gent, USDA Agricultural Research Service, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "powdery mildew",
+                    "description": "Powdery mildew is an infectious fungal disease caused by different species from the Erysiphaceae family. It causes characteristic powdery spots on the leaves, stems, fruits, and other parts of the plant.",
+                    "url": "https://en.wikipedia.org/wiki/Powdery_mildew",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply a fungicide. Powdery mildew on deciduous trees usually does little damage, so chemical control is not needed.",
+                            "If necessary, apply fungicide containing penthiopyrad (GHS09: Environmental hazard) on apple trees and pear trees.",
+                            "If necessary, apply fungicide containing tebuconazole (GHS07: Harmful, GHS08: Health hazard, GHS09: Environmental hazard) (on ornamentals)."
+                        ],
+                        "biological": [
+                            "Wash the spores from a susceptible plant with a stream of water.",
+                            "If possible remove and destroy the infected parts of the plant. Remove infected parts during the vegetative growth period and infected buds during the vegetative dormancy.",
+                            "Apply ecological products for plant protection (e.g. potassium bicarbonate, neem oil, baking soda).",
+                            "Introduce natural enemies - predators, parasites, or diseases (e.g. bacteria Bacillus amyloliquefaciens, Bacillus pumilus)."
+                        ],
+                        "prevention": [
+                            "Grow the plants in sunny places with good air ventilation.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Avoid excess nitrogen fertilization.",
+                            "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings."
+                        ]
+                    },
+                    "classification": [
+                        "Fungi",
+                        "Leotiomycetes",
+                        "Erysiphaceae"
+                    ],
+                    "common_names": null,
+                    "cause": "Erysiphaceae",
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 458,
+                "name": "Fungi",
+                "probability": 0.36095805702864375,
+                "similar_images": [
+                    {
+                        "id": "f49024d9f4679a8066f2f20d2995cc50",
+                        "similarity": 18.01615421808888,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/f49/024d9f4679a8066f2f20d2995cc50.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/f49/024d9f4679a8066f2f20d2995cc50.small.jpeg",
+                        "citation": "Rui map Zheng, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "ca6a6dafe75bdfa62c7827225bd59f07",
+                        "similarity": 14.257246287156995,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/ca6/a6dafe75bdfa62c7827225bd59f07.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/ca6/a6dafe75bdfa62c7827225bd59f07.small.jpeg",
+                        "citation": "Petr Kapitola, Central Institute for Supervising and Testing in Agriculture, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Fungi",
+                    "description": "Fungi take energy from the plants on which they live, causing damage to the plant. Fungal infections are responsible for approximately two-thirds of infectious plant diseases and cause wilting, molding, rusts, scabs, rotted tissue, and other problems.",
+                    "url": "https://en.wikipedia.org/wiki/Fungus",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply a fungicide. If you don' know the fungus species, choose fungicide based on the infected plant (e.g. house plant, garden plant, tree)."
+                        ],
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "Apply ecological products for plant protection (e.g. neem oil, baking soda, soap)."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 651,
+                "name": "Phytophthora",
+                "probability": 0.23271113895789575,
+                "similar_images": [
+                    {
+                        "id": "67c8413b786a291144b9ffd59c1d6f0f",
+                        "similarity": 58.528685316197254,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/67c/8413b786a291144b9ffd59c1d6f0f.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/67c/8413b786a291144b9ffd59c1d6f0f.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "9785021e11cd0f431d5a762e150157aa",
+                        "similarity": 45.60495150200049,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/978/5021e11cd0f431d5a762e150157aa.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/978/5021e11cd0f431d5a762e150157aa.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Phytophthora",
+                    "description": "The Phytophthora genus contains soil-borne plant pathogens similar to fungi, infecting mainly trees and woody plants. It usually spreads through plant roots and leads to weakness and collapse of the plant.",
+                    "url": "https://en.wikipedia.org/wiki/Phytophthora",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in Phytophthora infested soil.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray, phosphonates). These chemicals may lead to the development of resistant strains.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Chromista",
+                        "Peronosporea",
+                        "Peronosporaceae"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 469,
+                "name": "Leotiomycetes",
+                "probability": 0.14798747738890355,
+                "redundant": true,
+                "similar_images": [
+                    {
+                        "id": "a5c27f6e61c834de82636fef4b73dc95",
+                        "similarity": 18.773807859785848,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a5c/27f6e61c834de82636fef4b73dc95.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a5c/27f6e61c834de82636fef4b73dc95.small.jpeg",
+                        "citation": "Clemson University - USDA Cooperative Extension Slide Series , Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "5b268d66e7236c936b3bddfd72e60142",
+                        "similarity": 18.154179232952718,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/5b2/68d66e7236c936b3bddfd72e60142.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/5b2/68d66e7236c936b3bddfd72e60142.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Leotiomycetes",
+                    "description": "Leotiomycetes are a class of ascomycete fungi causing many serious plant diseases, such as powdery mildew and gray mold, typically growing on the surface of the plant.",
+                    "url": "https://en.wikipedia.org/wiki/Leotiomycetes",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply a fungicide."
+                        ],
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "Apply ecological products for plant protection (e.g. neem oil)."
+                        ],
+                        "prevention": [
+                            "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Fungi"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 456,
+                "name": "abiotic",
+                "probability": 0.06288686712939495,
+                "redundant": true,
+                "similar_images": [
+                    {
+                        "id": "a9af02824dafb897f22aef4adc68317a",
+                        "similarity": 9.920739665576825,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a9a/f02824dafb897f22aef4adc68317a.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a9a/f02824dafb897f22aef4adc68317a.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "e5f9dc97a409475bff7a547fbe917d74",
+                        "similarity": 6.592395076593936,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e5f/9dc97a409475bff7a547fbe917d74.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e5f/9dc97a409475bff7a547fbe917d74.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "abiotic",
+                    "description": "Abiotic disorders are caused by non-living factors - usually by unsuitable environmental conditions, such as drought stress, nutrient deficiency, improper watering, or planting conditions.",
+                    "url": "https://en.wikipedia.org/wiki/Physiological_plant_disorder",
+                    "treatment": {},
+                    "classification": [],
+                    "common_names": [
+                        "abiotic disorder",
+                        "physiological plant disorder"
+                    ],
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 997,
+                "name": "herbicide damage",
+                "probability": 0.04724103243727459,
+                "similar_images": [
+                    {
+                        "id": "c9e8bf9822f1ed216aa16bfc4cdc27f7",
+                        "similarity": 16.407684362503996,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c9e/8bf9822f1ed216aa16bfc4cdc27f7.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/c9e/8bf9822f1ed216aa16bfc4cdc27f7.small.jpeg",
+                        "citation": "Jed Colquhoun, University of Wisconsin, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "40d4e6126892e6f74b63a790d4d76c81",
+                        "similarity": 15.529174726067138,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/40d/4e6126892e6f74b63a790d4d76c81.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/40d/4e6126892e6f74b63a790d4d76c81.small.jpeg",
+                        "citation": "Jed Colquhoun, University of Wisconsin, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "herbicide damage",
+                    "description": "Herbicide damage is caused by chemical herbicides such as glyphosate, 2,4-D, and others. General symptoms include twisted or discolored leaves, cupped foliage, stunted growth or leaves with dead spots.",
+                    "url": "https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/environmental/herbicide.aspx",
+                    "treatment": {
+                        "chemical": [
+                            "Apply suitable fertilizer for better plant recovery. Follow the instructions on the chosen product to prevent excessive fertilizer usage."
+                        ],
+                        "biological": [
+                            "After exposure to a herbicide that is not soil active: wash the affected plants thoroughly with water. Treatment must be done as soon as possible after exposure.",
+                            "After exposure to soil active herbicide: use activated charcoal, which can de-activate most of the soil-active herbicide. Treatment must be done as soon as possible after exposure.",
+                            "If possible, remove affected parts of the plant as soon as possible to prevent the herbicide from spreading deeper into the plant."
+                        ]
+                    },
+                    "classification": [
+                        "abiotic",
+                        "pesticide damage"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 1014,
+                "name": "downy mildew",
+                "probability": 0.030012991926359367,
+                "similar_images": [
+                    {
+                        "id": "04f101b843bf1918ae89c3527a3d30a0",
+                        "similarity": 33.528230938797535,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/04f/101b843bf1918ae89c3527a3d30a0.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/04f/101b843bf1918ae89c3527a3d30a0.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "78c4d00c17be4aab0e1d31c1455b2049",
+                        "similarity": 32.44281088280634,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/78c/4d00c17be4aab0e1d31c1455b2049.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/78c/4d00c17be4aab0e1d31c1455b2049.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "downy mildew",
+                    "description": "Downy mildew is a plant disease caused by pathogens belonging to the Peronosporaceae family. Typical symptoms are large, angular yellow spots on top of the leaves, which turn brown later on.",
+                    "url": "https://en.wikipedia.org/wiki/Downy_mildew",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply fungicide containing propamocarb hydrochloride (GHS07: Harmful) (on onion, cucumber, and potatoes).",
+                            "If necessary, apply fungicide containing metalaxyl (GHS07: Harmful) (on garden crops).",
+                            "If necessary, apply fungicide containing fluopicolide (GHS09: Environmental hazard)."
+                        ],
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "If the infection is widespread, remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "Apply ecological products for plant protection (e.g. baking soda, hydrogen peroxide, copper spray)."
+                        ],
+                        "prevention": [
+                            "Water the soil surface, avoid watering leaves.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Ensure having good soil drainage to avoid overwatering.",
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray). These chemicals may lead to the development of resistant strains."
+                        ]
+                    },
+                    "classification": [
+                        "Chromista",
+                        "Peronosporea",
+                        "Peronosporaceae"
+                    ],
+                    "common_names": null,
+                    "cause": "Peronosporaceae",
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 467,
+                "name": "Sordariomycetes",
+                "probability": 0.026325687255011193,
+                "similar_images": [
+                    {
+                        "id": "11f463d92ad43b9d49954e5e2544b48b",
+                        "similarity": 9.617536957922093,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/11f/463d92ad43b9d49954e5e2544b48b.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/11f/463d92ad43b9d49954e5e2544b48b.small.jpeg",
+                        "citation": "Mary Burrows, Montana State University, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "6d5a3684c30041933a3f43e44356523f",
+                        "similarity": 8.694912853220675,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/6d5/a3684c30041933a3f43e44356523f.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/6d5/a3684c30041933a3f43e44356523f.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Sordariomycetes",
+                    "description": "Fungi from the Sordariomycetes class cause various plant diseases, such as Dutch elm disease or Fusarium wilt.",
+                    "url": "https://en.wikipedia.org/wiki/Sordariomycetes",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Keep the moisture low, avoid prolonged wetting of the leaves (e.g. by overhead irrigation) and ensure good soil drainage.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Fungi"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 1024,
+                "name": "late blight",
+                "probability": 0.022291874583425103,
+                "similar_images": [
+                    {
+                        "id": "a3376900601e451df262235136cc3205",
+                        "similarity": 57.256704440574566,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a33/76900601e451df262235136cc3205.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/a33/76900601e451df262235136cc3205.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "522c16dd94dd727e6523338edbff860a",
+                        "similarity": 52.21668954862837,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/522/c16dd94dd727e6523338edbff860a.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/522/c16dd94dd727e6523338edbff860a.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "late blight",
+                    "description": "Late blight is caused by the pathogen Phytophthora infestans, often occurring in tomatoes and potatoes. Typical symptoms are water-soaked gray-green spots on older leaves, large brown blotches on leaves, dry brown foliage, and dark brown spots on fruits.",
+                    "url": "https://en.wikipedia.org/wiki/Phytophthora_infestans",
+                    "treatment": {
+                        "biological": [
+                            "If possible remove and destroy the infected plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Rotate crops. Avoid planting sensitive crops in Phytophthora infested soil.",
+                            "If necessary, use chemical products as a prevention (e.g. copper-based spray, phosphonates). These chemicals may lead to the development of resistant strains.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Chromista",
+                        "Peronosporea",
+                        "Peronosporaceae",
+                        "Phytophthora",
+                        "Phytophthora infestans"
+                    ],
+                    "common_names": [
+                        "potato blight"
+                    ],
+                    "cause": "Phytophthora infestans",
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 457,
+                "name": "Animalia",
+                "probability": 0.01953496348141458,
+                "redundant": true,
+                "similar_images": [
+                    {
+                        "id": "2b443adb06be3faa31ff114103f9071c",
+                        "similarity": 12.06742973854239,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/2b4/43adb06be3faa31ff114103f9071c.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/2b4/43adb06be3faa31ff114103f9071c.small.jpeg",
+                        "citation": "Herb Pilcher, USDA Agricultural Research Service, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "bb32856fe0f410663064b9746cd3646f",
+                        "similarity": 8.872244067516327,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/bb3/2856fe0f410663064b9746cd3646f.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/bb3/2856fe0f410663064b9746cd3646f.small.jpeg",
+                        "citation": "Jeffrey W. Lotz, Florida Department of Agriculture and Consumer Services, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Animalia",
+                    "description": "Disorders induced by organisms from the animal kingdom. These pests cause direct damage by feeding on leaves, stems, roots, and other parts of the plant or by inhabiting plant tissues. Pests can also spread bacterial and viral diseases.",
+                    "url": "https://en.wikipedia.org/wiki/Animal",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply insecticide, or acaricide."
+                        ],
+                        "biological": [
+                            "Remove pests mechanically. Rub the pests off, or remove infested parts or use a strong stream of water to remove the insect.",
+                            "Apply ecological products for plant protection (e.g. sticky cards, essential oils, horticultural oil).",
+                            "Introduce natural enemies - predators, parasites, or diseases (e.g. lady beetles, lacewings, parasitic wasps).",
+                            "Isolate the infested plant immediately to avoid the infestation from spreading."
+                        ],
+                        "prevention": [
+                            "Encourage the presence of natural enemies (e.g. lady beetles, lacewings, parasitic wasps).",
+                            "Apply dormant oil (controls pests and diseases during the off-season).",
+                            "Inspect new plants for signs of an infestation. Inspect the underside of leaves and stem joints."
+                        ]
+                    },
+                    "classification": [],
+                    "common_names": [
+                        "pests"
+                    ],
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 465,
+                "name": "Insecta",
+                "probability": 0.014085489092167372,
+                "similar_images": [
+                    {
+                        "id": "e4be50d9fe1390c4f50effc986c652fe",
+                        "similarity": 17.220954722399615,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e4b/e50d9fe1390c4f50effc986c652fe.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e4b/e50d9fe1390c4f50effc986c652fe.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "e73037662ccf1a2e5314aa05a2a0fcd6",
+                        "similarity": 14.94717755107445,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e73/037662ccf1a2e5314aa05a2a0fcd6.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/e73/037662ccf1a2e5314aa05a2a0fcd6.small.jpeg",
+                        "citation": "Jennifer Carr, University of Florida, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Insecta",
+                    "description": "Class Insecta contains many major plant pests such as aphids and thrips. Damage can be caused by both larval and adult stages. They can cause feeding damage or transmit a bacterial, viral, or fungal infection.",
+                    "url": "https://en.wikipedia.org/wiki/Insect",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply insecticide.",
+                            "Apply suitable insecticide based on plant species and suspected insect species."
+                        ],
+                        "biological": [
+                            "Remove pests mechanically. Rub the pests off, or remove infested parts or use a strong stream of water to remove the insect.",
+                            "Apply ecological products for plant protection (e.g. sticky cards, essential oils, horticultural oil).",
+                            "Introduce natural enemies - predators, parasites, or diseases (e.g. lady beetles, lacewings, parasitic wasps).",
+                            "Isolate the infested plant immediately to avoid the infestation from spreading."
+                        ],
+                        "prevention": [
+                            "Encourage the presence of natural enemies (e.g. lady beetles, lacewings, parasitic wasps).",
+                            "Apply dormant oil (controls pests and diseases during the off-season).",
+                            "Inspect new plants for signs of an infestation. Inspect the underside of leaves and stem joints."
+                        ]
+                    },
+                    "classification": [
+                        "Animalia"
+                    ],
+                    "common_names": [
+                        "insects"
+                    ],
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 466,
+                "name": "Dothideomycetes",
+                "probability": 0.013471884133676941,
+                "similar_images": [
+                    {
+                        "id": "9c79fbffc7c00914d4cdd085085ce4b8",
+                        "similarity": 18.30756008266111,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/9c7/9fbffc7c00914d4cdd085085ce4b8.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/9c7/9fbffc7c00914d4cdd085085ce4b8.small.jpeg",
+                        "citation": "Cesar Calderon, Cesar Calderon Pathology Collection, USDA APHIS PPQ, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "462b8f622987eed3d8bbe26523332524",
+                        "similarity": 17.60971452956904,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/462/b8f622987eed3d8bbe26523332524.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/462/b8f622987eed3d8bbe26523332524.small.jpeg",
+                        "citation": "Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "Dothideomycetes",
+                    "description": "The Dothideomycetes class contains many fungal plant pathogens, typically causing destructive diseases in crops (such as vegetables, wheat, and corn).",
+                    "url": "https://en.wikipedia.org/wiki/Dothideomycetes",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply a fungicide."
+                        ],
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "Remove weeds as well as all dead plant tissue. They may be a source of infection.",
+                            "Apply ecological products for plant protection (e.g. copper-based spray)."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Rotate crops. Avoid planting sensitive crops in infested soil.",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Fungi"
+                    ],
+                    "common_names": null,
+                    "cause": null,
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 1030,
+                "name": "rust",
+                "probability": 0.011462622658254097,
+                "similar_images": [
+                    {
+                        "id": "dd74a61d4658749b7d115adb20389c70",
+                        "similarity": 20.142601683831156,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/dd7/4a61d4658749b7d115adb20389c70.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/dd7/4a61d4658749b7d115adb20389c70.small.jpeg",
+                        "citation": "Joseph OBrien, USDA Forest Service, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    },
+                    {
+                        "id": "9b54785024b3a74940bb9f193f4db358",
+                        "similarity": 16.624879759646902,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/9b5/4785024b3a74940bb9f193f4db358.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/9b5/4785024b3a74940bb9f193f4db358.small.jpeg",
+                        "citation": "Mourad Louadfel, Homemade, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "rust",
+                    "description": "Rust is a large group of common fungal diseases with typical symptoms of leaf spots that develop into spore-producing structures called pustules, varying in color.",
+                    "url": "https://en.wikipedia.org/wiki/Rust_(fungus)",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply fungicide containing acetamiprid (GHS07: Harmful).",
+                            "If necessary, apply fungicide containing triticonazole (GHS09: Environmental hazard) (on outdoors ornamentals)."
+                        ],
+                        "biological": [
+                            "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+                            "Apply ecological products for plant protection (e.g. copper hydroxide for raspberries and currants, powdered sulfur)."
+                        ],
+                        "prevention": [
+                            "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+                            "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+                            "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+                            "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+                        ]
+                    },
+                    "classification": [
+                        "Fungi",
+                        "Pucciniomycetes"
+                    ],
+                    "common_names": [
+                        "rust fungi"
+                    ],
+                    "cause": "Pucciniales",
+                    "language": "en"
+                }
+            },
+            {
+                "entity_id": 692,
+                "name": "mites",
+                "probability": 0.010626877454734462,
+                "similar_images": [
+                    {
+                        "id": "911eb8326f21445b82dbf309bc6cd6fd",
+                        "similarity": 14.995942921379413,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/911/eb8326f21445b82dbf309bc6cd6fd.jpg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/911/eb8326f21445b82dbf309bc6cd6fd.small.jpg"
+                    },
+                    {
+                        "id": "33bce1b092d8b47eccff161a04a61848",
+                        "similarity": 9.675049852608332,
+                        "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/33b/ce1b092d8b47eccff161a04a61848.jpeg",
+                        "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/images/33b/ce1b092d8b47eccff161a04a61848.small.jpeg",
+                        "citation": "Jeffrey W. Lotz, Florida Department of Agriculture and Consumer Services, Bugwood.org ",
+                        "license_name": "CC BY 3.0",
+                        "license_url": "https://creativecommons.org/licenses/by/3.0/"
+                    }
+                ],
+                "disease_details": {
+                    "local_name": "mites",
+                    "description": "Mites are small pests (usually under 1 mm) from the arachnid class causing damage to plants by sucking sap from the leaves. Common mites include spider mites and gall mites. Serious mite infestation can lead to mottling of the leaves and defoliation.",
+                    "url": "https://en.wikipedia.org/wiki/Mite#Parasitism",
+                    "treatment": {
+                        "chemical": [
+                            "If necessary, apply acaricide (miticide) containing maltodextrin."
+                        ],
+                        "biological": [
+                            "Remove pests mechanically. Rub the pests off, or remove infested parts.",
+                            "Apply ecological products for plant protection (e.g. soap sprays, neem oil).",
+                            "Introduce natural enemies - predators, parasites, or diseases (e.g. pirate bugs, predatory mite Phytoseiulus persimilis, lacewings).",
+                            "Isolate the infested plant immediately to avoid the infestation from spreading."
+                        ],
+                        "prevention": [
+                            "Encourage the presence of natural enemies (e.g. predatory mites).",
+                            "Water the plant regularly, especially during dry weather."
+                        ]
+                    },
+                    "classification": [
+                        "Animalia",
+                        "Arachnida"
+                    ],
+                    "common_names": null,
+                    "cause": "Acari",
+                    "language": "en"
+                }
+            }
+        ]
+    }
+}

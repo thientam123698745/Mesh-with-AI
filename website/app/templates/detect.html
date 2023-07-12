@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="{{ url_for('static', filename = 'image/plant.png')}}" type="image">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'main.css')}}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'detect.css')}}" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Quicksand"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+      integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+      crossorigin="anonymous"
+    />
+
+    <title>Smart Garden</title>
+  </head>
+  <body>
+    <header>
+      <a class="logo-link" target="_self" href="#">
+        <div class="logo-box">
+          <div class="logo">
+            <span class="logo-letters">UIT</span>
+          </div>
+          <span class="logo-text">Smart Garden</span>
+        </div>
+      </a>
+
+      <nav>
+        <a class="header-link" target="_self" href="/">Home</a>
+        <a class="header-link" target="_self" href="#">Predict</a>
+      </nav>
+
+      <button class="menu-button" id="menu-button">
+        <i class="bi bi-list"></i>
+      </button>
+    </header>
+
+<!--     <div class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <span class="sidebar-title">Menu</span>
+        <button class="close-button" id="close-button">
+          <i class="bi bi-x-lg"></i>
+        </button>
+      </div>
+
+      <a class="sidebar-link" target="_self" href="/">Home</a>
+      <a class="sidebar-link" target="_self" href="#">Predict</a>
+    </div> -->
+    <div id="main-web">
+      <div id="show-img">
+      </div>
+    </div>
+    <button id="detect">Dự đoán</button>
+    <div id="result">Kết quả dự đoán:</div>
+  </body>
+  <script src="{{ url_for('static', filename = 'detect.js')}}"></script>
+</html>

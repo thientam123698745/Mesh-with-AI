@@ -1,0 +1,25 @@
+#main-web span {
+  display: block;
+  padding: 5px 10px;
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+#show-img {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#show-img img {
+  max-width: 256px;
+  height: auto;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
